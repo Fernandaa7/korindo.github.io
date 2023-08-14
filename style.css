@@ -16,7 +16,10 @@
 .section{
     padding-top: 6rem;
     overflow-x: hidden;
-    max-width: 100%;   
+    max-width: 100%;
+}
+
+#contact{
     background-color: #e1f2f7; 
 }
 
