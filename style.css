@@ -25,10 +25,15 @@
 #contact{
     background-color: #e1f2f7; 
     overflow-x: hidden;
-    
+    max-width: 100%;
 }
 
-#e-certificate{
+#ecertificate{
     padding-top: 6rem;
     overflow-x: hidden;
+}
+
+#ecertificate .row > * {
+    padding: 3px;
+    padding-top: 0rem;
 }
